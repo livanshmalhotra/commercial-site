@@ -1,0 +1,100 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "title": "Spicy Paneer Tikka",
+            "image": "paneer_tikka.jpg",
+            "time": "30 mins",
+            "description": "Grilled paneer cubes marinated in spicy yogurt masala.",
+            "vegan": false
+        },
+        {
+            "id": 2,
+            "title": "Veg Hakka Noodles",
+            "image": "hakka_noodles.jpg",
+            "time": "20 mins",
+            "description": "Stir\u2011fried noodles with vegetables and sauces.",
+            "vegan": true
+        },
+        {
+            "id": 3,
+            "title": "Butter Chicken",
+            "image": "butter_chicken.jpg",
+            "time": "40 mins",
+            "description": "Creamy tomato\u2011based chicken curry, mildly spiced.",
+            "vegan": false
+        },
+        {
+            "id": 4,
+            "title": "Masala Dosa",
+            "image": "masala_dosa.jpg",
+            "time": "25 mins",
+            "description": "Crispy South Indian dosa filled with spiced potato masala.",
+            "vegan": true
+        },
+        {
+            "id": 5,
+            "title": "Pasta Alfredo",
+            "image": "alfredo_pasta.jpg",
+            "time": "30 mins",
+            "description": "Creamy Alfredo pasta with garlic and herbs.",
+            "vegan": false
+        },
+        {
+            "id": 6,
+            "title": "Thai Green Curry",
+            "image": "thai_green_curry.jpg",
+            "time": "35 mins",
+            "description": "Aromatic green curry with coconut milk and veggies.",
+            "vegan": true
+        },
+        {
+            "id": 7,
+            "title": "Margherita Pizza",
+            "image": "margherita_pizza.jpg",
+            "time": "15 mins",
+            "description": "Classic pizza with tomatoes, mozzarella, and basil.",
+            "vegan": false
+        },
+        {
+            "id": 8,
+            "title": "Falafel Wrap",
+            "image": "falafel_wrap.jpg",
+            "time": "20 mins",
+            "description": "Crunchy falafel balls wrapped with veggies and tahini.",
+            "vegan": true
+        },
+        {
+            "id": 9,
+            "title": "Ramen Bowl",
+            "image": "ramen_bowl.jpg",
+            "time": "25 mins",
+            "description": "Japanese-style ramen with broth, noodles, and toppings.",
+            "vegan": false
+        },
+        {
+            "id": 10,
+            "title": "Avocado Toast",
+            "image": "avocado_toast.jpg",
+            "time": "10 mins",
+            "description": "Toasted bread topped with mashed avocado and seasoning.",
+            "vegan": true
+        },
+        {
+            "id": 11,
+            "title": "1",
+            "image": "avocado_toast.jpg",
+            "time": "10 mins",
+            "description": "Toasted bread topped with mashed avocado and seasoning.",
+            "vegan": true
+        },
+        {
+            "id": 12,
+            "title": "Avocado Toast",
+            "image": "avocado_toast.jpg",
+            "time": "10 mins",
+            "description": "Toasted bread topped with mashed avocado and seasoning.",
+            "vegan": true
+        }
+    ]
+}
