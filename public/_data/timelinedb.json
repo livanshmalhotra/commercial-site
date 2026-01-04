@@ -1,0 +1,40 @@
+{
+  "timeline": [
+    {
+      "id": "1",
+      "year": "2024",
+      "title": "Product Launch",
+      "description": "Successfully launched our flagship product to global markets with unprecedented reception.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "2",
+      "year": "2023",
+      "title": "Series B Funding",
+      "description": "Secured $50M in Series B funding to accelerate growth and expand our team.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "3",
+      "year": "2022",
+      "title": "Global Expansion",
+      "description": "Opened offices in 5 new countries, bringing our services to millions more users.",
+      "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "4",
+      "year": "2021",
+      "title": "Innovation Award",
+      "description": "Received the prestigious Tech Innovation Award for our groundbreaking platform.",
+      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "5",
+      "year": "2020",
+      "title": "Company Founded",
+      "description": "Started our journey with a vision to transform the industry through technology.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&h=300&fit=crop"
+    }
+  ]
+}
+
