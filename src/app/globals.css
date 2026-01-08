@@ -156,3 +156,27 @@ h2{
 .class-time{
   text-align: centre;
 }
+.loader-wrapper {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: black;
+  overflow: hidden;
+}
+
+.loader-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* FULL SCREEN without stretching */
+}
+
+.loader-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1.2rem;
+  background: rgba(0, 0, 0, 0.3); /* optional overlay */
+}
